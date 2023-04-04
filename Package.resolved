@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "weakreference",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/antonkrasilnikov/WeakReference.git",
+      "state" : {
+        "revision" : "059a61f8a5dd411edeb069c12a6cb0a774516e5c",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
